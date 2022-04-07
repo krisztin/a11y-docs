@@ -1,4 +1,4 @@
-# Accessibility
+# Accessibility <!-- omit in toc -->
 
 When you are developing in an accessible way you are not only coding for completely blind people. There are a lot of people out there with low-vision who can still see the screen and for instance use their mouse to hover over text which is then read to them by the screen reader.
 
@@ -7,7 +7,26 @@ And we haven't even mentioned people who just prefer using `Tab` to go through a
 Accessibility in general is much more than proper semantics, focus handling, contrasts.
 Site speeds etc.
 
-However, this page (for now) will only deal with the above 
+However, this page (for now) will only deal with the above.
+
+- [Who uses screen readers?](#who-uses-screen-readers)
+- [Handling focus](#handling-focus)
+  - [Interactive elements](#interactive-elements)
+  - [What's in focus?](#whats-in-focus)
+- [Screen readers](#screen-readers)
+  - [NVDA](#nvda)
+  - [Alternatives to NVDA](#alternatives-to-nvda)
+    - [JAWS](#jaws)
+    - [Voice Over](#voice-over)
+    - [Narrator](#narrator)
+    - [Screen reader - Chrome extension](#screen-reader---chrome-extension)
+    - [ChromeVox](#chromevox)
+    - [Ubuntu](#ubuntu)
+- [Resources, tutorials, tools](#resources-tutorials-tools)
+  - [Udacity + Google course](#udacity--google-course)
+  - [W3's wai tutorials](#w3s-wai-tutorials)
+  - [Van11y scripts](#van11y-scripts)
+  - [Tools](#tools)
 
 ## Who uses screen readers?
 76% of screen reader users are blind (from a [non-representative study](https://webaim.org/projects/screenreadersurvey8/#disability)). The rest have either low vision (18.5%) or other impairments (deafness/hard-of-hearing	6.0%, cognitive 3.3%, motor 2.0% and other). 15% have multiple disabilities.

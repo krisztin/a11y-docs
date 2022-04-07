@@ -1,4 +1,11 @@
-# Screen readers
+# Screen readers <!-- omit in toc -->
+
+- [How to use a screen reader?](#how-to-use-a-screen-reader)
+- [Step 0 - Download NVDA](#step-0---download-nvda)
+- [Step 1 - Start up](#step-1---start-up)
+- [Step 2 - Navigating with your screenreader](#step-2---navigating-with-your-screenreader)
+  - [Useful keyboard shortcuts](#useful-keyboard-shortcuts)
+- [Step 3 - Turning off NVDA](#step-3---turning-off-nvda)
 
 ## How to use a screen reader?
 
