@@ -85,6 +85,14 @@ In `Settings` under `Universal access` there's a toggle for a screen reader. It'
 
 ## Resources, tutorials, tools
 
+### GOV.UK full accessibility testing
+
+https://accessibility-manual.dwp.gov.uk/best-practice/how-to-do-accessibility-testing
+
+### GOV.UK basic accessibility check
+
+https://www.gov.uk/government/publications/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one
+
 ### Udacity + Google course
 If you want a comprehensive overview of accessibility and implementation in the codebase this is a great course to go through. Touches on everything important from focus handling to the importance of proper semantics and aria attributes amongst others.\
 https://www.udacity.com/course/web-accessibility--ud891
