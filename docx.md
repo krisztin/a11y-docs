@@ -10,7 +10,7 @@ It's only good to check certain issues (images, alignment)
 
 `File > Info > Check for issues > Check for accessibility`
 
-# Accessible Document
+## Accessible document checklist
 
 1. **Save as .docx with a descriptive filename**
 
