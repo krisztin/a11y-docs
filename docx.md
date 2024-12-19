@@ -1,3 +1,4 @@
+# How to create accessible documents
 In short, use built in features and don't do manual formatting.
 
 **Word inbuilt accessibility checker**
