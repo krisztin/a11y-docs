@@ -101,17 +101,32 @@ https://van11y.net/
 
 ### Tools
 
-**Web Accessibility Evaluation Tool (WAVE)**\
-Run an accessibility check on a page to see all issues.\
+It's improtant to note that automatic tools, whilst useful, are not at all a subsitute to manual evaluation. According to a [government accessibility tool audit](https://alphagov.github.io/accessibility-tool-audit/) the best evaluators catch at most 40% of issues.
+
+#### HTML Validator <!-- omit in toc -->
+
+npm package for in development validation.
+
+https://www.npmjs.com/package/html-validator
+
+#### W3 Html markup validator<!-- omit in toc -->
+
+copy paste your code or URL for validation
+
+https://validator.w3.org/
+
+#### Web Accessibility Evaluation Tool (WAVE)<!-- omit in toc -->
+
+Run an accessibility check on a page to see all issues.
+
 https://wave.webaim.org/
 
-**Chrome Lighthouse**\
-Integrated in Chrome and can be found via the Dev Tools.
+#### Arc Toolkit, Axe DevTools<!-- omit in toc -->
 
-**Contrast checker**\
-For a quick check whether a design has proper contrast.\
+Similar to WAVE, can be added as browser plugins as well.
+
+#### Contrast checker<!-- omit in toc -->
+
+For a quick check whether a design has proper contrast.
+
 https://webaim.org/resources/contrastchecker/
-
-**W3 Html markup validator**\
-Just to check your html for not necessarily accessibility related issues\
-https://validator.w3.org/
