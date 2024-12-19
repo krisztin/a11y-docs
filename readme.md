@@ -23,15 +23,18 @@ However, this page (for now) will only deal with the above.
     - [ChromeVox](#chromevox)
     - [Ubuntu](#ubuntu)
 - [Resources, tutorials, tools](#resources-tutorials-tools)
+  - [GOV.UK full accessibility testing](#govuk-full-accessibility-testing)
+  - [GOV.UK basic accessibility check](#govuk-basic-accessibility-check)
   - [Udacity + Google course](#udacity--google-course)
   - [W3's wai tutorials](#w3s-wai-tutorials)
-  - [Van11y scripts](#van11y-scripts)
   - [Tools](#tools)
 
 ## Who uses screen readers?
-76% of screen reader users are blind (from a [non-representative study](https://webaim.org/projects/screenreadersurvey8/#disability)). The rest have either low vision (18.5%) or other impairments (deafness/hard-of-hearing	6.0%, cognitive 3.3%, motor 2.0% and other). 15% have multiple disabilities.
+
+76% of screen reader users are blind (from a [non-representative study](https://webaim.org/projects/screenreadersurvey8/#disability)). The rest have either low vision (18.5%) or other impairments (deafness/hard-of-hearing 6.0%, cognitive 3.3%, motor 2.0% and other). 15% have multiple disabilities.
 
 ## Handling focus
+
 Any element that's in the tab order (can be reached when you `Tab` through the site) can receive focus.
 
 ### Interactive elements
@@ -59,29 +62,36 @@ If you lose sight of the focus ring and are not sure what element is currently i
 Check out the [screen reader guide page](/nvda.md) for help on how to set up and use a screen reader on your own machine. It helps a lot in checking the accessibility of your code.
 
 ### NVDA
+
 The recommended software to be used. It is free, works on Windows machines and widely used.
 
 ### Alternatives to NVDA
+
 In order of popularity based on a [non-representative survey done by WebAim](https://webaim.org/projects/screenreadersurvey8/)
 
 #### JAWS
+
 If you have it, use it. It is widely used but not free.
 
 #### Voice Over
+
 If you are on a Mac machine you should have access to Voice Over which is a great piece of tech.
 
 #### Narrator
+
 Windows10's inbuilt screen reader - Narrator - is not very good and not really used by many. Avoid using it.
 
 #### Screen reader - Chrome extension
+
 A Google developed Chrome extension (previously called ChromeVox). OK for quick checks but not very comprehensive or widely used.
 
 #### ChromeVox
+
 ChromeOS's screen reader, not widely used (just like ChromeOS 🙄)
 
 #### Ubuntu
-In `Settings` under `Universal access` there's a toggle for a screen reader. It's OK but not very widely used.
 
+In `Settings` under `Universal access` there's a toggle for a screen reader. It's OK but not very widely used.
 
 ## Resources, tutorials, tools
 
@@ -94,6 +104,7 @@ https://accessibility-manual.dwp.gov.uk/best-practice/how-to-do-accessibility-te
 https://www.gov.uk/government/publications/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one
 
 ### Udacity + Google course
+
 If you want a comprehensive overview of accessibility and implementation in the codebase this is a great course to go through. Touches on everything important from focus handling to the importance of proper semantics and aria attributes amongst others.\
 https://www.udacity.com/course/web-accessibility--ud891
 
@@ -101,11 +112,6 @@ https://www.udacity.com/course/web-accessibility--ud891
 
 Great, practical examples of accessible code patterns from tables and forms to images and carousels.\
 https://www.w3.org/WAI/tutorials/
-
-### Van11y scripts
-
-A collection of accessible vanilla JS scripts for carousels, tab panels, accordions, hide/shows, modal windows, dialog tooltips (modal) and tooltips.\
-https://van11y.net/
 
 ### Tools
 
