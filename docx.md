@@ -1,4 +1,7 @@
 # How to create accessible documents
+
+[Based on 508 guidelines](https://www.section508.gov/create/documents/)
+
 In short, use built in features and don't do manual formatting.
 
 **Word inbuilt accessibility checker**
